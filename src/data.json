@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "name": "Sydney Language Festival ",
+      "date": "2023-12-15",
+      "time": "6:00 PM",
+      "location": "Sydney Opera House",
+      "description": "A night of amazing music performances.",
+      "imageUrl": "https://www.eventbookings.com/upload/orgs/14f0faeae74522aade01a3d15d07056f/events/5020bc57-b563-476a-bbd9-255674ecfc2f.png?q=100&s=fd457e8cd905c36972c916fe54a46ca6",
+      "ticketUrl": "https://www.eventbookings.com/b/event/sydney-language-festival-free-event-6798a2a9ddb9f0-72052706"
+    },
+    {
+      "id": 2,
+      "name": "Field Archery Refresher - Adult",
+      "date": "2023-12-20",
+      "time": "10:00 AM",
+      "location": "Art Gallery of NSW",
+      "description": "Explore contemporary art from local artists.",
+      "imageUrl": "https://www.eventbookings.com/upload/orgs/e8e59ee802048bd78a89f5937b8c96b2/4fe06a344bcd9f33e1d10ed3ac0f393c/events/96c9fa59-ee9f-472c-aec7-b988010fd69a.jpg?q=100&s=59f403764f1ffbc3d7f2cdac964e8f66",
+      "ticketUrl": "https://www.eventbookings.com/b/event/field-archery-refresher-adult"
+    }
+  ]
